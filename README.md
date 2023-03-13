@@ -5,4 +5,6 @@
 정희경 [https://github.com/JungHeekyung/homework2-jhk.git](https://github.com/JungHeekyung/homework2-jhk.git)   
 이지은 [https://github.com/jieun822/homework2-lje.git](https://github.com/jieun822/homework2-lje.git)
 
+이현경 [https://github.com/hyunk07/homework2-lhk](https://github.com/hyunk07/homework2-lhk)
+
 
